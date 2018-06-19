@@ -1,4 +1,4 @@
-# Character Recognition Project
+# Character-Recognition-Project
 [Educational Project]
 
 The project classifies characters (Hand-Written) by three algorithms Weighted kNN, Bayesian and SVM.
