@@ -1,7 +1,7 @@
 # Character-Recognition-Project
-[Educational Project]
+[Educational Project] (FCIH-Egypt)*
 
-The project classifies characters (Hand-Written) by three algorithms Weighted kNN, Bayesian and SVM.
+The main feature of this project is to classify characters (Hand-Written) by one of three algorithms: Weighted kNN, Bayesian and SVM, and there are more features.
 
 Using MATLAB R2016b and App Design GUI
 
@@ -13,4 +13,4 @@ Mohammed Raafat Ibrahim,
 Mahmoud Said Hamed,  
 AbdelRahman Mahmoud Youssif.  
   
-(FCIH-Egypt)
+*Faculty of Computers and Information - Helwan University - Egypt
