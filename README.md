@@ -8,9 +8,9 @@ Using MATLAB R2016b and App Design GUI
 Dataset from: https://archive.ics.uci.edu/ml/datasets.html.  
   
 Team Members:  
-Taha Hussein Mamdouh,  
-Mohammed Raafat Ibrahim,  
-Mahmoud Said Hamed,  
+Taha Hussein Mamdouh (https://github.com/taha7ussein007),  
+Mohammed Raafat Ibrahim (https://github.com/Mohammed-Raafat),  
+Mahmoud Said Hamed (https://github.com/MekkyUA),  
 AbdelRahman Mahmoud Youssif.  
   
 *Faculty of Computers and Information - Helwan University - Egypt
